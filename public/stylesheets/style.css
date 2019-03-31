@@ -107,7 +107,7 @@ section {
 }
 
 .specials {
-    background-image: url("/images/Easter.jpg");
+    background-image: url("/images/Spring-Bird.jpg");
     height: 500px;
     background-position: center;
     background-repeat: no-repeat;
@@ -130,9 +130,9 @@ section {
 .specials-text h2 {
     color: #c42100;
     font-family: 'Mountains of Christmas';
-    font-size: 45px;
+    font-size: 75px;
     font-weight: 700;
-    text-shadow: 1px 1px black;
+    text-shadow: 5px 3px black;
 }  
 
 
