@@ -1,0 +1,156 @@
+body {
+    padding-top: 50px;
+    font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+    background-image: linear-gradient(to right, #FAC5DE, #7FFAF7 );
+}
+
+.navbar .navbar-nav {
+    display: inline-block;
+    float: none;
+    vertical-align: top;
+}
+
+.navbar .navbar-collapse {
+    text-align: center;
+}
+
+h1 {
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+.elite {
+    color: #7FFAF7;
+}
+
+.nails {
+    color: #FAC5DE;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+.girl {
+    display: block;
+    margin: 0 auto;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+}
+
+.contact-first-half {
+    text-align: right;
+}
+
+.section-wrap {
+    margin-top: 20px;
+}
+
+.contact-info {
+    padding: 15px;
+    background: rgba(255, 255, 255, 0.3);
+}
+
+.facebook {
+    color: #3b5998;
+    margin-right: 12px;
+}
+
+.yelp {
+    color: #c42100;
+    margin-left: 12px;
+}
+
+.footer {
+    text-align: center;
+    margin-top: 45px;
+}
+
+.copyright {
+    margin-top: 10px;
+    font-size: 10px;
+}
+
+.main-container {
+    background: rgba(255, 255, 255, 0.3);
+}
+
+.custom-jumbotron {
+    background-color: #fff;
+}
+
+.carousel-inner img {
+    width: 100%; /* Set width to 100% */
+    margin: auto;
+    min-height:200px;
+}
+
+
+.carousel-items {
+    background-size: cover;
+    /*width: 1140px;*/
+    max-width: 100%;
+    height: 350px;
+}
+
+.item-1 {
+    background-image: url("/images/tropical_spa.jpg");
+}
+
+.item-2 {
+    background-image: url("/images/milk-honey.jpg");
+}
+
+section {
+    margin-top: 45px;
+}
+
+.specials {
+    background-image: url("/images/heart_lantern.jpg");
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.well h4 {
+    color: #449D44;
+}
+
+.specials-text {
+    color: #fff;
+    padding: 136.5px 0;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    text-align: center;
+
+}
+
+.specials-text h2 {
+    color: #c42100;
+    font-family: 'Mountains of Christmas';
+    font-size: 75px;
+    font-weight: 700;
+    text-shadow: 3px 1px black;
+}  
+
+
+@media screen and (max-width: 320px) {
+    h4 {
+        font-size: 1em !important;
+    }
+
+    /*.carousel-items {*/
+        /*background-size: cover;*/
+        /*width: 300px !important;*/
+        /*height: 100px !important;*/
+    /*}*/
+}
+
+
+@media screen and (max-width: 768px) {
+    .specials-text {
+        padding: 99px 0;
+    }
+}

@@ -1,0 +1,106 @@
+{
+  "listType": "Our Services",
+  "categories": [
+    {
+      "categoryId": 0,
+      "categoryName": "Solar Nails",
+      "items": [
+        {
+          "itemId": 0,
+          "itemDesc": "Pink and White Full Set",
+          "price": 35
+        }, {
+          "itemId": 1,
+          "itemDesc": "Pink and White Fill",
+          "price": 30
+        }, {
+          "itemId": 2,
+          "itemDesc": "Pink Fill",
+          "price": 20
+        }, {
+          "itemId": 3,
+          "itemDesc": "Solar Color Tip Full Set",
+          "price": 40
+        }, {
+          "itemId": 4,
+          "itemDesc": "Solar Color Tip Fill",
+          "price": 35
+        }, {
+          "itemId": 5,
+          "itemDesc": "Whole Nails Color Full Set",
+          "price": 35
+        }, {
+          "itemId": 6,
+          "itemDesc": "Whole Nails Color Fill",
+          "price": 25
+        }, {
+          "itemId": 7,
+          "itemDesc": "Regular Full Set",
+          "price": 25
+        }, {
+          "itemId": 8,
+          "itemDesc": "Regular Fill",
+          "price": 17
+        } ,{
+          "itemId": 9,
+          "itemDesc": "Nail Removal",
+          "price": 10
+        }, {
+          "itemId": 10,
+          "itemDesc": "Nail Repair (ea)",
+          "price": 3
+        }, {
+          "itemId": 11,
+          "itemDesc": "Toe Polish Change",
+          "price": "10/12"
+        }, {
+          "itemId": 12,
+          "itemDesc": "Nail Polish Change",
+          "price": "8/10"
+        }, {
+          "itemId": 13,
+          "itemDesc": "American/French Manicure Polish",
+          "price": 5
+        }, {
+          "itemId": 14,
+          "itemDesc": "Paraffin Wax Treatment",
+          "price": 5
+        }, {
+          "itemId": 15,
+          "itemDesc": "Gel Coat (for Solar)",
+          "price": 3
+        }
+      ]
+    }, {
+      "categoryId": 1,
+      "categoryName": "Manicure",
+      "items": [
+        {
+          "itemId": 0,
+          "itemDesc": "Regular Manicure",
+          "price": 15
+        }, {
+          "itemId": 1,
+          "itemDesc": "Deluxe Spa Manicure",
+          "price": 25
+        }, {
+          "itemId": 2,
+          "itemDesc": "Lavender Man",
+          "price": 25
+        }, {
+          "itemId": 3,
+          "itemDesc": "Honey Shea Butter Manicure",
+          "price": 25
+        }, {
+          "itemId": 4,
+          "itemDesc": "Shellac Manicure (Gel Color)",
+          "price": 35
+        }, {
+          "itemId": 5,
+          "itemDesc": "Shellac Manicure (Gel French)",
+          "price": 40
+        }
+      ]
+    }
+  ]
+}
