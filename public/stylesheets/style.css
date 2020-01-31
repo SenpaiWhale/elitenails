@@ -107,11 +107,7 @@ section {
 }
 
 .specials {
-<<<<<<< HEAD
     background-image: url("/images/heart_lantern.jpg");
-=======
-    background-image: url("/images/Summer_Fun.jpg");
->>>>>>> 893b86290f2306d793370b88d2be04608e63c8c4
     height: 500px;
     background-position: center;
     background-repeat: no-repeat;
