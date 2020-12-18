@@ -6,7 +6,8 @@
     "\\public\\javascript",
     "\\routes",
     "\\views",
-    "\\views\\pages"
+    "\\views\\pages",
+    "\\views\\partials"
   ],
   "SelectedNode": "\\routes\\index.js",
   "PreviewInSolutionExplorer": false
