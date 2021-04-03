@@ -107,7 +107,7 @@ section {
 }
 
 .specials {
-    background-image: url("Easter2021.jpg");
+    background-image: url("/images/Easter2021.jpg");
     height: 500px;
     background-position: center;
     background-repeat: no-repeat;
@@ -128,7 +128,7 @@ section {
 }
 
 .specials-text h2 {
-    color: #c42100;
+    color: #7677a8;
     font-family: 'Mountains of Christmas';
     font-size: 75px;
     font-weight: 700;
